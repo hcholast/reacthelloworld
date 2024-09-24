@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacthelloworld/static/css/main.f855e6bc.css",
+    "main.js": "/reacthelloworld/static/js/main.79c03204.js",
+    "static/js/453.20952338.chunk.js": "/reacthelloworld/static/js/453.20952338.chunk.js",
+    "static/media/logo.svg": "/reacthelloworld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacthelloworld/index.html",
+    "main.f855e6bc.css.map": "/reacthelloworld/static/css/main.f855e6bc.css.map",
+    "main.79c03204.js.map": "/reacthelloworld/static/js/main.79c03204.js.map",
+    "453.20952338.chunk.js.map": "/reacthelloworld/static/js/453.20952338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.79c03204.js"
+  ]
+}
